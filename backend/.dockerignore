@@ -1,0 +1,10 @@
+z.json
+z.py
+tasks.md
+
+
+.venv/
+.vscode/
+
+
+__pycache__/
